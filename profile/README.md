@@ -41,6 +41,7 @@ Supported platforms:
 * AWS Lambda: https://github.com/bentoml/aws-lambda-deploy
 * AWS SageMaker: https://github.com/bentoml/aws-sagemaker-deploy
 * Azure Functions: https://github.com/bentoml/azure-functions-deploy
+* Azure Container Instances https://github.com/bentoml/azure-container-instances-deploy
 * Google Cloud Run: https://github.com/bentoml/google-cloud-run-deploy
 * Google Compute Engine: https://github.com/bentoml/google-compute-engine-deploy
 * Heroku: https://github.com/bentoml/heroku-deploy
