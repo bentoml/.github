@@ -37,14 +37,13 @@ To be announced soon!
 `bentoctl` supports deploying ML Service created with BentoML into popular cloud services. Support for each cloud platform is captured in its own plugin that can be found below:
 
 Supported platforms:
-* AWS EC2: https://github.com/bentoml/aws-ec2-deploy
-* AWS Lambda: https://github.com/bentoml/aws-lambda-deploy
-* AWS SageMaker: https://github.com/bentoml/aws-sagemaker-deploy
-* Azure Functions: https://github.com/bentoml/azure-functions-deploy
-* Azure Container Instances https://github.com/bentoml/azure-container-instances-deploy
-* Google Cloud Run: https://github.com/bentoml/google-cloud-run-deploy
-* Google Compute Engine: https://github.com/bentoml/google-compute-engine-deploy
-* Heroku: https://github.com/bentoml/heroku-deploy
+* [AWS EC2](https://github.com/bentoml/aws-ec2-deploy)
+* [AWS Lambda](https://github.com/bentoml/aws-lambda-deploy)
+* [AWS SageMaker](https://github.com/bentoml/aws-sagemaker-deploy)
+* [Azure Functions](https://github.com/bentoml/azure-functions-deploy)
+* [Azure Container Instances](https://github.com/bentoml/azure-container-instances-deploy)
+* [Google Cloud Run](https://github.com/bentoml/google-cloud-run-deploy)
+* [Google Compute Engine](https://github.com/bentoml/google-compute-engine-deploy)
+* [Heroku](https://github.com/bentoml/heroku-deploy)
 
-Custom cloud platform is also supported by customizing deployment logic from the bentoctl operator tempalte:
-* bentoctl deployment operator template: https://github.com/bentoml/bentoctl-operator-template
+Custom cloud platform is also supported by customizing deployment logic from the bentoctl [deployment operator template](https://github.com/bentoml/bentoctl-operator-template).
