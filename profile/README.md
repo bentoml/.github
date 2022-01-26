@@ -1,4 +1,5 @@
-# Get your ML models into production today!
+# Get your ML models into production today!  [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=BentoML:%20The%20Unified%20Model%20Serving%20Framework%20&url=https://github.com/bentoml&via=bentomlai&hashtags=mlops,bentoml)
+
 
 BentoML is an open-source platform that streamlines machine-learning model deployment and runs high-performance serving workload at scale.
 
@@ -38,7 +39,7 @@ Yatai helps ML teams to run BentoML at scale on Kubernetes. It makes it easy for
 
 ### bentoctl - Fast model deployment with BentoML on cloud platforms
 
-[🚀 bentoctl source](https://github.com/bentoml/bentoctl)
+[🚀 bentoctl repo](https://github.com/bentoml/bentoctl)
 
 bentoctl is a CLI tool for deploying your BentoML packaged ML models as API endpoint on popular cloud platforms. It automates Bento docker image build, interactes with cloud platform APIs, and allow users to easily manage their deployment.
 
