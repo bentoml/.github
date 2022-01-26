@@ -4,7 +4,7 @@
 BentoML is an open-source platform that streamlines machine-learning model deployment and runs high-performance serving workload at scale.
 
 - [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified Model Serving Framework
-- [🦄️ yatai](https://github.com/bentoml/yatai): Run BentoML workflow at scale on Kubernetes
+- [🦄️ Yatai](https://github.com/bentoml/Yatai): Run BentoML workflow at scale on Kubernetes
 - [🚀 bentoctl](https://github.com/bentoml/bentoctl): Fast model deployment with BentoML on cloud platforms
 
 Join us in our [community Slack](https://join.slack.com/t/bentoml/shared_invite/enQtNjcyMTY3MjE4NTgzLTU3ZDc1MWM5MzQxMWQxMzJiNTc1MTJmMzYzMTYwMjQ0OGEwNDFmZDkzYWQxNzgxYWNhNjAxZjk4MzI4OGY1Yjg) to receive project updates and get involved with latest development.
