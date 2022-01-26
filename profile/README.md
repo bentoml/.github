@@ -4,7 +4,7 @@ BentoML is an open-source platform that streamlines machine-learning model deplo
 
 - [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified Model Serving Framework
 - [🦄️ yatai](https://github.com/bentoml/yatai): Run BentoML workflow at scale on Kubernetes
-- [🚀 bentoctl](https://github.com/bentoml/bentoctl): CLI tool for fast model deployment with BentoML on cloud platforms
+- [🚀 bentoctl](https://github.com/bentoml/bentoctl): Fast model deployment with BentoML on cloud platforms
 
 Join us in our [community Slack](https://join.slack.com/t/bentoml/shared_invite/enQtNjcyMTY3MjE4NTgzLTU3ZDc1MWM5MzQxMWQxMzJiNTc1MTJmMzYzMTYwMjQ0OGEwNDFmZDkzYWQxNzgxYWNhNjAxZjk4MzI4OGY1Yjg) to receive project updates and get involved with latest development.
 
@@ -36,11 +36,11 @@ Yatai helps ML teams to run BentoML at scale on Kubernetes. It makes it easy for
 * **CI/CD** - flexible APIs for integrating with your training and CI pipelines
 
 
-### bentoctl - CLI tool for fast model deployment on cloud platforms
+### bentoctl - Fast model deployment with BentoML on cloud platforms
 
 [🚀 bentoctl source](https://github.com/bentoml/bentoctl)
 
-`bentoctl` supports deploying ML Service created with BentoML into popular cloud services. Support for each cloud platform is captured in its own plugin that can be found below:
+bentoctl is a CLI tool for deploying your BentoML packaged ML models as API endpoint on popular cloud platforms. It automates Bento docker image build, interactes with cloud platform APIs, and allow users to easily manage their deployment.
 
 Supported platforms:
 * [AWS EC2](https://github.com/bentoml/aws-ec2-deploy)
@@ -52,4 +52,4 @@ Supported platforms:
 * [Google Compute Engine](https://github.com/bentoml/google-compute-engine-deploy)
 * [Heroku](https://github.com/bentoml/heroku-deploy)
 
-Custom cloud platform is also supported by customizing deployment logic from the bentoctl [deployment operator template](https://github.com/bentoml/bentoctl-operator-template).
+**Custom deploy target** is also supported by building your own bentoctl plugin from the [deployment operator template](https://github.com/bentoml/bentoctl-operator-template).
