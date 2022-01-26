@@ -4,14 +4,14 @@ BentoML is an open-source platform that streamlines machine-learning model deplo
 
 - [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified Model Serving Framework
 - [🦄️ yatai](https://github.com/bentoml/yatai): Run BentoML workflow at scale on Kubernetes
-- [🚀 bentoctl](https://github.com/bentoml/bentoctl): CLI tool for fast model deployment on cloud platforms
+- [🚀 bentoctl](https://github.com/bentoml/bentoctl): CLI tool for fast model deployment with BentoML on cloud platforms
 
 Join us in our [community Slack](https://join.slack.com/t/bentoml/shared_invite/enQtNjcyMTY3MjE4NTgzLTU3ZDc1MWM5MzQxMWQxMzJiNTc1MTJmMzYzMTYwMjQ0OGEwNDFmZDkzYWQxNzgxYWNhNjAxZjk4MzI4OGY1Yjg) to receive project updates and get involved with latest development.
 
 
 ### BentoML - The Unified Model Serving Framework
 
-[🍱 BentoML source](https://github.com/bentoml/BentoML) | [🎨 Gallery Projects](https://github.com/bentoml/gallery) | [📖 Documentation](http://docs.bentoml.org)
+[🍱 BentoML repo](https://github.com/bentoml/BentoML) | [🎨 Gallery Projects](https://github.com/bentoml/gallery) | [📖 Documentation](http://docs.bentoml.org)
 
 
 BentoML provides high-level APIs for packaging ML models and defining ML Services. From the ML service definition, BentoML allows building versioned archive(aka Bento) capturing all required dependencies, automatically generate HTTP Server and create Docker Image for production-grade deployment.
@@ -26,9 +26,14 @@ Key Features:
 
 ### Yatai - MLOps on Kubernetes
 
-[🦄️ Yatai source](https://github.com/bentoml/BentoML)
+[🦄️ Yatai repo](https://github.com/bentoml/BentoML) | [👩‍🚀 Administrator's Guide](https://github.com/bentoml/yatai/blob/main/docs/sys-admin-guide.md)
 
-To be announced soon!
+Yatai helps ML teams to run BentoML at scale on Kubernetes. It makes it easy for teams to manage all their ML assets in one place and operate large scale model serving workloads on Kubernetes.
+
+* **Bento Registry** - manage all your team's Bentos and Models, backed by cloud blob storage(S3, MinIO)
+* **Deployment Automation** - deploy Bentos as auto-scaling API endpoints on Kubernetes and easily rollout new versions
+* **Observability** - monitoring dashboard helping users to identify model performance issues
+* **CI/CD** - flexible APIs for integrating with your training and CI pipelines
 
 
 ### bentoctl - CLI tool for fast model deployment on cloud platforms
