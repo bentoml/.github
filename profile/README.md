@@ -27,7 +27,7 @@ Key Features:
 
 ### Yatai - MLOps on Kubernetes
 
-[🦄️ Yatai repo](https://github.com/bentoml/yatai) | [👩‍🚀 Administrator's Guide](https://github.com/bentoml/yatai/blob/main/docs/sys-admin-guide.md) | [⎈ Helm Chart](https://github.com/bentoml/yatai-chart)
+[🦄️ Yatai repo](https://github.com/bentoml/yatai) | [👩‍🚀 Administrator's Guide](https://github.com/bentoml/yatai/blob/main/docs/admin-guide.md) | [⎈ Helm Chart](https://github.com/bentoml/yatai-chart)
 
 Yatai helps ML teams to run BentoML at scale on Kubernetes. It makes it easy for teams to manage all their ML assets in one place and operate large scale model serving workloads on Kubernetes.
 
