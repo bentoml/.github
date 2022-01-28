@@ -12,7 +12,7 @@ Join us in our [community Slack](https://join.slack.com/t/bentoml/shared_invite/
 
 ### BentoML - The Unified Model Serving Framework
 
-[🍱 BentoML repo](https://github.com/bentoml/BentoML) | [🎨 Gallery Projects](https://github.com/bentoml/gallery) | [📖 Documentation](http://docs.bentoml.org)
+[🍱 Repository](https://github.com/bentoml/BentoML) | [🎨 Gallery Projects](https://github.com/bentoml/gallery) | [📖 Documentation](http://docs.bentoml.org)
 
 
 BentoML provides high-level APIs for packaging ML models and defining ML Services. From the ML service definition, BentoML allows building versioned archive(aka Bento) capturing all required dependencies, automatically generate HTTP Server and create Docker Image for production-grade deployment.
@@ -27,7 +27,7 @@ Key Features:
 
 ### Yatai - MLOps on Kubernetes
 
-[🦄️ Yatai repo](https://github.com/bentoml/yatai) | [👩‍🚀 Administrator's Guide](https://github.com/bentoml/yatai/blob/main/docs/admin-guide.md) | [⎈ Helm Chart](https://github.com/bentoml/yatai-chart)
+[🦄️ Repository](https://github.com/bentoml/yatai) | [👩‍🚀 Administrator's Guide](https://github.com/bentoml/yatai/blob/main/docs/admin-guide.md) | [⎈ Helm Chart](https://github.com/bentoml/yatai-chart)
 
 Yatai helps ML teams to run BentoML at scale on Kubernetes. It makes it easy for teams to manage all their ML assets in one place and operate large scale model serving workloads on Kubernetes.
 
@@ -39,7 +39,7 @@ Yatai helps ML teams to run BentoML at scale on Kubernetes. It makes it easy for
 
 ### bentoctl - Fast model deployment with BentoML on cloud platforms
 
-[🚀 bentoctl repo](https://github.com/bentoml/bentoctl)
+[🚀 Repository](https://github.com/bentoml/bentoctl)
 
 bentoctl is a CLI tool for deploying your BentoML packaged ML models as API endpoint on popular cloud platforms. It automates Bento docker image build, interactes with cloud platform APIs, and allow users to easily manage their deployment.
 
