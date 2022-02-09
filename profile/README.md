@@ -7,7 +7,7 @@ BentoML is an open platform that simplifies machine-learning model deployment an
 - [🦄️ Yatai](https://github.com/bentoml/Yatai): Model Deployment at scale on Kubernetes
 - [🚀 bentoctl](https://github.com/bentoml/bentoctl): Fast model deployment with any cloud platform
 
-👉 [Pop into our Slack community!](https://join.slack.bentoml.org) We're happy to help with any issue you face or even just to meet you and hear what you're working on :)
+👉 [Pop into our Slack community!](https://join.slack.bentoml.org) We're happy to help with any issue you face or even just to meet you and hear what you're working on 😄
 
 ### BentoML - The Unified Model Serving Framework
 
@@ -36,11 +36,11 @@ provides UI for managing all your ML models and deployments in one place, and en
 * **CI/CD** - flexible APIs for integrating with your training and CI/CD pipelines
 
 
-### bentoctl - Fast model deployment with any cloud platforms
+### bentoctl - Fast model deployment on any cloud platform
 
 [🚀 bentoctl repo](https://github.com/bentoml/bentoctl)
 
-`bentoctl` is a CLI tool for deploying your machine-learning models to any cloud platforms and serving predictions via REST APIs. 
+`bentoctl` is a CLI tool for deploying your machine-learning models to any cloud platform and serving predictions via REST APIs. 
 It is built on top of BentoML and makes it easy to bring any BentoML packaged model to production.
 
 Supported platforms:
