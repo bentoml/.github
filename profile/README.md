@@ -1,4 +1,4 @@
-# Deploy your ML models to production today!  [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=BentoML:%20The%20Unified%20Model%20Serving%20Framework%20&url=https://github.com/bentoml&via=bentomlai&hashtags=mlops,bentoml)
+# Deploy your ML models to production today!   [![Twitter Follow](https://img.shields.io/twitter/follow/bentomlai?style=social)](https://twitter.com/bentomlai) [![Slack](https://img.shields.io/badge/Slack-Join-4A154B?style=social)](https://join.slack.bentoml.org)
 
 
 BentoML is an open platform that simplifies machine-learning model deployment and runs high-performance model serving at scale.
@@ -10,7 +10,9 @@ BentoML is an open platform that simplifies machine-learning model deployment an
 
 👉 [Pop into our Slack community!](https://join.slack.bentoml.org) We're happy to help with any issue you face or even just to meet you and hear what you're working on 😄
 
-### BentoML - The Unified Model Serving Framework
+---
+
+### BentoML - The Unified Model Serving Framework ![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/bentoml?style=social)
 
 [🍱 BentoML repo](https://github.com/bentoml/BentoML) | [🎨 Gallery Projects](https://github.com/bentoml/gallery) | [📖 Documentation](http://docs.bentoml.org)
 
@@ -78,3 +80,6 @@ Supported platforms:
 **Custom deploy target** is supported by creating your own bentoctl plugin from the [deployment operator template](https://github.com/bentoml/bentoctl-operator-template).
 </details>
 
+---
+
+Like what we are building? Let others know you are using BentoML! [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=BentoML:%20The%20Unified%20Model%20Serving%20Framework%20&url=https://github.com/bentoml&via=bentomlai&hashtags=mlops,bentoml)
