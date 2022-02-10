@@ -117,8 +117,7 @@ It is built on top of BentoML and makes it easy to bring any BentoML packaged mo
 * [Google Compute Engine](https://github.com/bentoml/google-compute-engine-deploy)
 * [Heroku](https://github.com/bentoml/heroku-deploy)
 * [Knative](https://github.com/bentoml/bentoctl/issues/79) (WIP)
-
-**Custom deploy target** is supported by creating your own bentoctl plugin from the [deployment operator template](https://github.com/bentoml/bentoctl-operator-template).
+* **Customize deploy target** by creating bentoctl plugin from the [deployment operator template](https://github.com/bentoml/bentoctl-operator-template).
 
   <div>
     <img src="https://raw.githubusercontent.com/bentoml/bentoctl/master/demo.gif"/ alt="demo of bentoctl deploying to AWS-EC2"/>
