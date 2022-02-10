@@ -13,11 +13,11 @@ BentoML is an open platform that simplifies machine-learning model deployment an
 
 ---
 
-### BentoML - The Unified Model Serving Framework ![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/bentoml?style=social)
+### BentoML - The Unified Model Serving Framework [![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/bentoml?style=social)](https://github.com/bentoml/BentoML)
 
 [🍱 BentoML repo](https://github.com/bentoml/BentoML) | [🎨 Gallery Projects](https://github.com/bentoml/gallery) | [📖 Documentation](http://docs.bentoml.org)
 
-BentoML makes it easy to turn your ML models into prediction services that's easily deployable and high-performance. You can use it with any ML framework, incorporate business logic and pre/post-processing code with your model, automatically generate HTTP API Server and create Docker Image for production-grade deployment.
+BentoML makes it easy to turn your ML models into prediction services that's easily deployable. You can use it with any ML framework, incorporate business logic and pre/post-processing code with your model, serve models via REST API endpoint and automatically generate Docker container image for production deployment.
 
 <details>
   <summary>Details</summary>
@@ -30,7 +30,7 @@ BentoML makes it easy to turn your ML models into prediction services that's eas
   * **Automatic Docker image** can be generated for production deployment
 </details>
 
-### Yatai - Model Dpeloyment at scale on Kubernetes
+### Yatai - Model Dpeloyment at scale on Kubernetes [![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/yatai?style=social)](https://github.com/bentoml/Yatai)
 
 [🦄️ Yatai repo](https://github.com/bentoml/yatai) | [👩‍🚀 Administrator's Guide](https://github.com/bentoml/yatai/blob/main/docs/admin-guide.md) | [⎈ Helm Chart](https://github.com/bentoml/yatai-chart)
 
@@ -58,7 +58,7 @@ provides UI for managing all your ML models and deployments in one place, and en
 </details>
 </details>
 
-### bentoctl - Fast model deployment on any cloud platform
+### bentoctl - Fast model deployment on any cloud platform [![GitHub Repo stars](https://img.shields.io/github/stars/bentoml/bentoctl?style=social)](https://github.com/bentoml/bentoctl)
 
 [🚀 bentoctl repo](https://github.com/bentoml/bentoctl) | [📖 Documentation](https://github.com/bentoml/bentoctl/blob/main/docs/introduction.md)
 
