@@ -106,19 +106,21 @@ It is built on top of BentoML and makes it easy to bring any BentoML packaged mo
 <details>
   <summary>Details</summary>
     
-#### Supported platforms:
+  #### Supported platforms:
   
-* [AWS EC2](https://github.com/bentoml/aws-ec2-deploy)
-* [AWS Lambda](https://github.com/bentoml/aws-lambda-deploy)
-* [AWS SageMaker](https://github.com/bentoml/aws-sagemaker-deploy)
-* [Azure Functions](https://github.com/bentoml/azure-functions-deploy)
-* [Azure Container Instances](https://github.com/bentoml/azure-container-instances-deploy)
-* [Google Cloud Run](https://github.com/bentoml/google-cloud-run-deploy)
-* [Google Compute Engine](https://github.com/bentoml/google-compute-engine-deploy)
-* [Heroku](https://github.com/bentoml/heroku-deploy)
-* [Knative](https://github.com/bentoml/bentoctl/issues/79) (WIP)
-* **Customize deploy target** by creating bentoctl plugin from the [deployment operator template](https://github.com/bentoml/bentoctl-operator-template).
+  * [AWS EC2](https://github.com/bentoml/aws-ec2-deploy)
+  * [AWS Lambda](https://github.com/bentoml/aws-lambda-deploy)
+  * [AWS SageMaker](https://github.com/bentoml/aws-sagemaker-deploy)
+  * [Azure Functions](https://github.com/bentoml/azure-functions-deploy)
+  * [Azure Container Instances](https://github.com/bentoml/azure-container-instances-deploy)
+  * [Google Cloud Run](https://github.com/bentoml/google-cloud-run-deploy)
+  * [Google Compute Engine](https://github.com/bentoml/google-compute-engine-deploy)
+  * [Heroku](https://github.com/bentoml/heroku-deploy)
+  * [Knative](https://github.com/bentoml/bentoctl/issues/79) (WIP)
+  * Looking for **Kubernetes**? Try out [Yatai: Model deployment at scale on Kubernetes](https://github.com/bentoml/Yatai).
+  * **Customize deploy target** by creating bentoctl plugin from the [deployment operator template](https://github.com/bentoml/bentoctl-operator-template).
 
+  #### How it works:
   <div>
     <img src="https://raw.githubusercontent.com/bentoml/bentoctl/master/demo.gif"/ alt="demo of bentoctl deploying to AWS-EC2"/>
   </div>
