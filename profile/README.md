@@ -77,6 +77,8 @@ provides UI for managing all your ML models and deployments in one place, and en
 
 <details>
   <summary>Details</summary>
+  
+  #### Key Features:
 
   * **Deployment Automation** - deploy Bentos as auto-scaling API endpoints on Kubernetes and easily rollout new versions
   * **Bento Registry** - manage all your team's Bentos and Models, backed by cloud blob storage(S3, MinIO)
