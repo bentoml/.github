@@ -30,7 +30,43 @@ BentoML makes it easy to turn your ML models into prediction services that's eas
   * Support **Adaptive Batching** which dynamically group inference requets into small batches in real-time for better performance
   * Build inference graph composed from **multiple models** or functions, and **execute them in parallel**
   * **Automatic Docker image** can be generated for production deployment
+  
+  #### How it works:
+  
+  1. Use BentoML to save your trained model:
+  ```python
+  import bentoml
+  bentoml.pytorch.save('mnist', trained_model)
+  ```
+
+  2. Create a ML Service:
+  ```python
+  # mnist_service.py
+  import bentoml
+  from bentoml.io import Image, NumpyNdarray
+  
+  mnist_runner = bentoml.pytorch.load_runner("mnist")
+
+  svc = bentoml.Service("pytorch_mnist_demo", runners=[mnist_runner])
+
+  @svc.api(input=Image(), output=NumpyNdarray(dtype="int64"))
+  async def predict_image(f: PILImage) -> "np.ndarray[t.Any, np.dtype[t.Any]]":
+    arr = np.array(f)/255.0
+    arr = np.expand_dims(arr, 0).astype("float32")
+    output_tensor = await mnist_runner.async_run(arr)
+    return output_tensor.numpy()
+  ```
+  
+  3. Run a model server locally to test out the API endpoint:
+  ```bash
+  bentoml serve mnist_service.py:svc --reload
+  ```
+  
+  4. Checkout the [Quickstart Guide](https://docs.bentoml.org/en/latest/quickstart.html) to learn more！
+  
+  
 </details>
+
 
 ### Yatai - Model Dpeloyment at scale on Kubernetes
 
@@ -70,7 +106,8 @@ It is built on top of BentoML and makes it easy to bring any BentoML packaged mo
 <details>
   <summary>Details</summary>
     
-Supported platforms:
+#### Supported platforms:
+  
 * [AWS EC2](https://github.com/bentoml/aws-ec2-deploy)
 * [AWS Lambda](https://github.com/bentoml/aws-lambda-deploy)
 * [AWS SageMaker](https://github.com/bentoml/aws-sagemaker-deploy)
@@ -79,8 +116,13 @@ Supported platforms:
 * [Google Cloud Run](https://github.com/bentoml/google-cloud-run-deploy)
 * [Google Compute Engine](https://github.com/bentoml/google-compute-engine-deploy)
 * [Heroku](https://github.com/bentoml/heroku-deploy)
+* [Knative](https://github.com/bentoml/bentoctl/issues/79) (WIP)
 
 **Custom deploy target** is supported by creating your own bentoctl plugin from the [deployment operator template](https://github.com/bentoml/bentoctl-operator-template).
+
+  <div>
+    <img src="https://raw.githubusercontent.com/bentoml/bentoctl/master/demo.gif"/ alt="demo of bentoctl deploying to AWS-EC2"/>
+  </div>
 </details>
 
 
