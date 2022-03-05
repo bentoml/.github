@@ -2,7 +2,7 @@
 
 [<img src="https://raw.githubusercontent.com/bentoml/BentoML/main/docs/source/_static/img/bentoml-readme-header.jpeg">](https://github.com/bentoml/BentoML)
 
-BentoML is an open platform that simplifies ML model deployment and enables you to serve your models at production scale in minutes
+BentoML is an open platform that simplifies ML model deployment and enables you to serve your models at production scale in minutes.
 
 👉 [Pop into our Slack community!](https://l.linklyhq.com/l/ktO8) We're happy to help with any issue you face or even just to meet you and hear what you're working on.
 
