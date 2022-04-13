@@ -68,7 +68,7 @@ BentoML makes it easy to turn your ML models into prediction services that's eas
 </details>
 
 
-### Yatai - Model Dpeloyment at scale on Kubernetes
+### Yatai - Model Deployment at scale on Kubernetes
 
 [🦄️ Yatai repo](https://github.com/bentoml/yatai) | [👩‍🚀 Administrator's Guide](https://github.com/bentoml/yatai/blob/main/docs/admin-guide.md) | [⎈ Helm Chart](https://github.com/bentoml/yatai-chart)
 
