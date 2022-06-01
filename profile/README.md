@@ -62,7 +62,7 @@ BentoML makes it easy to turn your ML models into prediction services that's eas
   bentoml serve mnist_service.py:svc --reload
   ```
   
-  4. Checkout the [Quickstart Guide](https://docs.bentoml.org/en/latest/quickstart.html) to learn more！
+  4. Checkout the [Quickstart Guide](https://l.linklyhq.com/l/ktIk) to learn more！
   
   
 </details>
