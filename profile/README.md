@@ -1,10 +1,13 @@
-# Deploy your ML models to production today!   [![Twitter Follow](https://img.shields.io/twitter/follow/bentomlai?style=social)](https://twitter.com/bentomlai) [![Slack](https://img.shields.io/badge/Slack-Join-4A154B?style=social)](https://join.slack.bentoml.org)
+# Welcome to BentoML 👋  [![Twitter Follow](https://img.shields.io/twitter/follow/bentomlai?style=social)](https://twitter.com/bentomlai) [![Slack](https://img.shields.io/badge/Slack-Join-4A154B?style=social)](https://l.linklyhq.com/l/ktO8)
 
-[<img src="https://raw.githubusercontent.com/bentoml/BentoML/main/docs/source/_static/img/bentoml-readme-header.jpeg">](https://github.com/bentoml/BentoML)
+[![BentoML](https://user-images.githubusercontent.com/489344/178160978-6e13a849-d16a-43b4-9ada-ef30f35922fa.png)](http://bentoml.com)
 
-BentoML is an open platform that simplifies ML model deployment and enables you to serve your models at production scale in minutes.
+[Website](http://bentoml.com) | [Docs](https://docs.bentoml.org) | [Blog](https://modelserving.com) | [Twitter](https://twitter.com/bentomlai) | [Community](https://l.linklyhq.com/l/ktO8)
 
-👉 [Pop into our Slack community!](https://l.linklyhq.com/l/ktO8) We're happy to help with any issue you face or even just to meet you and hear what you're working on.
+BentoML is an open source platform for machine learning in production. It simplifies model packaging and model management, optimizes model serving workloads to run at production scale, and accelerates the creation, deployment, and monitoring of prediction services.
+
+
+## What we are building 👩‍🍳
 
 
 - [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified Model Serving Framework
@@ -12,17 +15,20 @@ BentoML is an open platform that simplifies ML model deployment and enables you 
 - [🚀 bentoctl](https://github.com/bentoml/bentoctl): Fast model deployment on any cloud platform
 
 
+## Get in touch 💬
 
-# What we are building 👩‍🍳
+BentoML has a thriving open source community where hundreds of ML practitioners are contributing to the project, helping other users and discuss all things MLOps. [👉 Join us on slack today!](https://l.linklyhq.com/l/ktO8)
 
-### BentoML - The Unified Model Serving Framework
+---
+
+### BentoML
 
 [🍱 BentoML repo](https://github.com/bentoml/BentoML) | [🎨 Gallery Projects](https://github.com/bentoml/gallery) | [📖 Documentation](http://docs.bentoml.org)
 
 BentoML makes it easy to turn your ML models into prediction services that's easily deployable. You can use it with any ML framework, incorporate business logic and pre/post-processing code with your model, serve real-time via REST API endpoint or offline via batch inference job, and automatically generate Docker container image for production deployment.
 
 <details>
-  <summary>Details</summary>
+  <summary>Learn More</summary>
   
   #### Key Features:
 
@@ -68,7 +74,7 @@ BentoML makes it easy to turn your ML models into prediction services that's eas
 </details>
 
 
-### Yatai - Model Deployment at scale on Kubernetes
+### Yatai
 
 [🦄️ Yatai repo](https://github.com/bentoml/yatai) | [👩‍🚀 Administrator's Guide](https://github.com/bentoml/yatai/blob/main/docs/admin-guide.md) | [⎈ Helm Chart](https://github.com/bentoml/yatai-chart)
 
@@ -76,7 +82,7 @@ Yatai helps ML teams to deploy large scale model serving workloads on Kubernetes
 provides UI for managing all your ML models and deployments in one place, and enables advanced GitOps and CI/CD workflow.
 
 <details>
-  <summary>Details</summary>
+  <summary>Learn More</summary>
   
   #### Key Features:
 
@@ -98,7 +104,7 @@ provides UI for managing all your ML models and deployments in one place, and en
   </details>
 </details>
 
-### bentoctl - Fast model deployment on any cloud platform
+### bentoctl
 
 [🚀 bentoctl repo](https://github.com/bentoml/bentoctl) | [📖 Documentation](https://github.com/bentoml/bentoctl/blob/main/docs/introduction.md)
 
@@ -106,7 +112,7 @@ provides UI for managing all your ML models and deployments in one place, and en
 It is built on top of BentoML and makes it easy to bring any BentoML packaged model to production.
 
 <details>
-  <summary>Details</summary>
+  <summary>Learn More</summary>
     
   #### Supported platforms:
   
@@ -122,13 +128,5 @@ It is built on top of BentoML and makes it easy to bring any BentoML packaged mo
   * Looking for **Kubernetes**? Try out [Yatai: Model deployment at scale on Kubernetes](https://github.com/bentoml/Yatai).
   * **Customize deploy target** by creating bentoctl plugin from the [deployment operator template](https://github.com/bentoml/bentoctl-operator-template).
 
-  #### How it works:
-  <div>
-    <img src="https://raw.githubusercontent.com/bentoml/bentoctl/master/demo.gif"/ alt="demo of bentoctl deploying to AWS-EC2"/>
-  </div>
 </details>
 
-
-# Get in touch!
-
-Come [join our community](https://join.slack.bentoml.org), the veterans alongside the newbs, all trying to figure out what the hell this thing called MLOps is.
