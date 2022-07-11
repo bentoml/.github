@@ -4,16 +4,14 @@
 
 [Website](http://bentoml.com) | [Docs](https://docs.bentoml.org) | [Blog](https://modelserving.com) | [Twitter](https://twitter.com/bentomlai) | [Community](https://l.linklyhq.com/l/ktO8)
 
-BentoML is an open source platform for machine learning in production. It simplifies model packaging and model management, optimizes model serving workloads to run at production scale, and accelerates the creation, deployment, and monitoring of prediction services.
-
 
 ## What we are building 👩‍🍳
 
+BentoML is an open source platform for machine learning in production. It simplifies model packaging and model management, optimizes model serving workloads to run at production scale, and accelerates the creation, deployment, and monitoring of prediction services.
 
 - [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified Model Serving Framework
 - [🦄️ Yatai](https://github.com/bentoml/Yatai): Model Deployment at scale on Kubernetes
 - [🚀 bentoctl](https://github.com/bentoml/bentoctl): Fast model deployment on any cloud platform
-
 
 ## Get in touch 💬
 
@@ -23,7 +21,7 @@ BentoML has a thriving open source community where hundreds of ML practitioners 
 
 ### 🍱 BentoML
 
-[BentoML repo](https://github.com/bentoml/BentoML) | [Examples Gallery](https://github.com/bentoml/gallery) | [Documentation](http://docs.bentoml.org)
+[Tutorial](https://docs.bentoml.org/en/latest/tutorial.html) | [Documentation](http://docs.bentoml.org) | [Examples Gallery](https://github.com/bentoml/gallery)
 
 BentoML makes it easy to turn your ML models into prediction services that's easily deployable. You can use it with any ML framework, incorporate business logic and pre/post-processing code with your model, serve real-time via REST API endpoint or offline via batch inference job, and automatically generate Docker container image for production deployment.
 
@@ -76,7 +74,7 @@ BentoML makes it easy to turn your ML models into prediction services that's eas
 
 ### 🦄️ Yatai
 
-[Source](https://github.com/bentoml/yatai) | [Installation](https://github.com/bentoml/yatai/blob/main/docs/admin-guide.md) | [Helm Chart](https://github.com/bentoml/yatai-chart)
+[Tutorial](https://github.com/bentoml/Yatai#getting-started) | [Installation](https://github.com/bentoml/yatai/blob/main/docs/admin-guide.md) | [Helm Chart](https://github.com/bentoml/yatai-chart)
 
 Yatai helps ML teams to deploy large scale model serving workloads on Kubernetes. It standarlizes BentoML deployment on Kubernetes,
 provides UI for managing all your ML models and deployments in one place, and enables advanced GitOps and CI/CD workflow.
@@ -106,7 +104,7 @@ provides UI for managing all your ML models and deployments in one place, and en
 
 ### 🚀 bentoctl
 
-[Source](https://github.com/bentoml/bentoctl) | [Documentation](https://github.com/bentoml/bentoctl/blob/main/docs/introduction.md)
+[Quickstart](https://github.com/bentoml/bentoctl/blob/main/docs/quickstart.md) | [Documentation](https://github.com/bentoml/bentoctl/blob/main/docs/introduction.md)
 
 `bentoctl` is a CLI tool for deploying your machine-learning models to any cloud platform and serving predictions via REST APIs. 
 It is built on top of BentoML and makes it easy to bring any BentoML packaged model to production.
