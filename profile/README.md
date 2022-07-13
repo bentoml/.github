@@ -10,7 +10,7 @@
 BentoML is an open source platform for machine learning in production. It simplifies model packaging and model management, optimizes model serving workloads to run at production scale, and accelerates the creation, deployment, and monitoring of prediction services.
 
 - [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified Model Serving Framework
-- [🦄️ Yatai](https://github.com/bentoml/Yatai): Model Deployment at scale on Kubernetes
+- [🦄️ Yatai](https://github.com/bentoml/Yatai): Production-first ML platform on Kubernetes
 - [🚀 bentoctl](https://github.com/bentoml/bentoctl): Fast model deployment on any cloud platform
 
 ## Get in touch 💬
@@ -76,18 +76,19 @@ BentoML makes it easy to turn your ML models into prediction services that's eas
 
 [Source](https://github.com/bentoml/Yatai) | [Tutorial](https://github.com/bentoml/Yatai#getting-started) | [Installation](https://github.com/bentoml/yatai/blob/main/docs/admin-guide.md) | [Helm Chart](https://github.com/bentoml/yatai-chart)
 
-Yatai helps ML teams to deploy large scale model serving workloads on Kubernetes. It standarlizes BentoML deployment on Kubernetes,
-provides UI for managing all your ML models and deployments in one place, and enables advanced GitOps and CI/CD workflow.
+Yatai is a production-first platform for your machine learning needs. It brings collaborative BentoML workflows to Kubernetes, helps ML teams to run model serving at scale, while simplifying model management and deployment across teams.
+
 
 <details>
   <summary>Learn More</summary>
   
-  #### Key Features:
+  ## Core features:
 
+  * **Bento Registry** - manage all your team's ML models via simple Web UI and API, and store ML assets on cloud blob storage
   * **Deployment Automation** - deploy Bentos as auto-scaling API endpoints on Kubernetes and easily rollout new versions
-  * **Bento Registry** - manage all your team's Bentos and Models, backed by cloud blob storage(S3, MinIO)
-  * **Observability** - monitoring dashboard helping users to identify model performance issues
-  * **CI/CD** - flexible APIs for integrating with your training and CI/CD pipelines
+  * **Observability** - monitoring dashboard and logging integration helping users to identify model performance issues
+  * **CI/CD** - flexible APIs for integrating with your training and CI pipelines
+
   
   <img width="785" alt="yatai-overview-page" src="https://user-images.githubusercontent.com/489344/151455964-4fe30eb7-f000-43cc-8a5f-807ee450b8b6.png">
 
