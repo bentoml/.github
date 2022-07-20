@@ -11,7 +11,7 @@ BentoML is an open source platform for machine learning in production. It simpli
 
 - [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified Model Serving Framework
 - [🦄️ Yatai](https://github.com/bentoml/Yatai): Production-first ML platform on Kubernetes
-- [🚀 bentoctl](https://github.com/bentoml/bentoctl): Fast model deployment on any cloud platform
+- [🚀 bentoctl](https://github.com/bentoml/bentoctl): Fast model deployment to any cloud platform
 
 ## Get in touch 💬
 
