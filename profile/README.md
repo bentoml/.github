@@ -2,8 +2,9 @@
 
 [![BentoML](https://user-images.githubusercontent.com/489344/178160978-6e13a849-d16a-43b4-9ada-ef30f35922fa.png)](http://bentoml.com)
 
-[Website](http://bentoml.com) | [Docs](https://docs.bentoml.org) | [Blog](https://modelserving.com) | [Twitter](https://twitter.com/bentomlai) | [Community](https://l.linklyhq.com/l/ktO8)
-
+<div align="center">
+<a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.org">Docs</a> | <a href="https://modelserving.com">Blog</a> | <a href="https://twitter.com/bentomlai">Twitter</a> | <a href="https://l.linklyhq.com/l/ktO8">Community</a>
+</div>
 
 ## What we are building 👩‍🍳
 
