@@ -22,7 +22,7 @@ BentoML has a thriving open source community where hundreds of ML practitioners 
 
 ### 🍱 BentoML
 
-[Source](https://github.com/bentoml/BentoML) | [Tutorial](https://docs.bentoml.org/en/latest/tutorial.html) | [Documentation](http://docs.bentoml.org) | [Examples Gallery](https://github.com/bentoml/gallery)
+[Source](https://github.com/bentoml/BentoML) | [Tutorial](https://docs.bentoml.org/en/latest/tutorial.html) | [Documentation](http://docs.bentoml.org) | [Examples](https://github.com/bentoml/BentoML/tree/main/examples)
 
 BentoML makes it easy to turn your ML models into prediction services that's easily deployable. You can use it with any ML framework, incorporate business logic and pre/post-processing code with your model, serve real-time via REST API endpoint or offline via batch inference job, and automatically generate Docker container image for production deployment.
 
