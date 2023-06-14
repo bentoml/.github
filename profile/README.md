@@ -14,6 +14,7 @@ BentoML is an open source platform for building, deploying and operating machine
 - [☁️ BentoCloud](https://www.bentoml.com/): Managed AI Application Platform for BentoML
 - [🦄️ Yatai](https://github.com/bentoml/Yatai): Model Deployment at scale on Kubernetes
 - [🚀 bentoctl](https://github.com/bentoml/bentoctl): Fast model deployment on any cloud
+- [🦾 OpenLLM](https://github.com/bentoml/OpenLLM): Operating large language models(LLMs) in production
 
 
 ## Get in touch 💬
