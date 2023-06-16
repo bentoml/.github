@@ -6,15 +6,21 @@
 <a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.org">Docs</a> | <a href="https://modelserving.com">Blog</a> | <a href="https://twitter.com/bentomlai">Twitter</a> | <a href="https://l.bentoml.com/join-slack">Community</a>
 </div>
 
-## What we are building 👩‍🍳
+## What is BentoML? 👩‍🍳
 
-BentoML is an open source platform for building, deploying and operating machine learning services at scale.
+BentoML is an open-source platform for building, shipping, and scaling AI applications.
 
+🔨 Building
 - [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified Model Serving Framework
-- [☁️ BentoCloud](https://www.bentoml.com/): Managed AI Application Platform for BentoML
+- [🦾 OpenLLM](https://github.com/bentoml/OpenLLM): Operating large language models(LLMs) in production
+- [🖼️ Stable-Diffusion-server](https://github.com/bentoml/stable-diffusion-bentoml): Run any stable-diffusion pipelines with ease
+- [🤲 Transformer-NLP-Service](https://github.com/bentoml/transformers-nlp-service): Build scalable NLP services with Transformers
+- [👁 CLIP-API-service](https://github.com/bentoml/CLIP-API-service): CLIP as a service for visual understanding and reasoning tasks
+
+🚢 Shipping & Scaling
+- [☁️ BentoCloud](https://www.bentoml.com/): The Serverless Cloud for AI
 - [🦄️ Yatai](https://github.com/bentoml/Yatai): Model Deployment at scale on Kubernetes
 - [🚀 bentoctl](https://github.com/bentoml/bentoctl): Fast model deployment on any cloud
-- [🦾 OpenLLM](https://github.com/bentoml/OpenLLM): Operating large language models(LLMs) in production
 
 
 ## Get in touch 💬
