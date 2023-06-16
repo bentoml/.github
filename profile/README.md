@@ -25,4 +25,6 @@ BentoML is an open-source platform for building, shipping, and scaling AI applic
 
 ## Get in touch 💬
 
-BentoML has a thriving open source community where hundreds of ML practitioners are contributing to the project, helping other users and discuss all things MLOps. [👉 Join us on slack today!](https://l.bentoml.com/join-slack)
+👉 [Join our Slack community!](https://l.bentoml.com/join-slack)
+
+🐦 Follow the latest from BentoML team on Twitter [@bentomlai](https://twitter.com/bentomlai)
