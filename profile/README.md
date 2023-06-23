@@ -3,7 +3,7 @@
 [![BentoML](https://user-images.githubusercontent.com/489344/178160978-6e13a849-d16a-43b4-9ada-ef30f35922fa.png)](http://bentoml.com)
 
 <div align="center">
-<a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.org">Docs</a> | <a href="https://modelserving.com">Blog</a> | <a href="https://twitter.com/bentomlai">Twitter</a> | <a href="https://l.bentoml.com/join-slack">Community</a>
+<a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.org">Docs</a> | <a href="https://bentoml.com/blog">Blog</a> | <a href="https://twitter.com/bentomlai">Twitter</a> | <a href="https://l.bentoml.com/join-slack">Community</a>
 </div>
 
 ## What is BentoML? 👩‍🍳
