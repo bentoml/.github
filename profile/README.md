@@ -1,6 +1,8 @@
 # Welcome to BentoML 👋  [![Twitter Follow](https://img.shields.io/twitter/follow/bentomlai?style=social)](https://twitter.com/bentomlai) [![Slack](https://img.shields.io/badge/Slack-Join-4A154B?style=social)](https://l.bentoml.com/join-slack)
 
-[![BentoML](https://user-images.githubusercontent.com/489344/178160978-6e13a849-d16a-43b4-9ada-ef30f35922fa.png)](http://bentoml.com)
+[![BentoML](https://github.com/bentoml/.github/assets/489344/90984523-d9dc-43eb-b43e-164eb12ada20)](http://bentoml.com)
+
+
 
 <div align="center">
 <a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.org">Docs</a> | <a href="https://bentoml.com/blog">Blog</a> | <a href="https://twitter.com/bentomlai">Twitter</a> | <a href="https://l.bentoml.com/join-slack">Community</a>
