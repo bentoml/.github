@@ -15,7 +15,7 @@ BentoML is an open-source platform for building, shipping, and scaling AI applic
 🔨 Building
 - [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified AI Application Framework
 - [🦾 OpenLLM](https://github.com/bentoml/OpenLLM): Operating Large Language Models (LLMs) in production
-- [🖼️ Stable-Diffusion-server](https://github.com/bentoml/stable-diffusion-bentoml): Run any Stable-Diffusion pipelines with ease
+- [🖼️ OneDiffusion](https://github.com/bentoml/OneDiffusion): Run any Stable Diffusion models and fine-tuned weights with ease
 - [🤲 Transformer-NLP-Service](https://github.com/bentoml/transformers-nlp-service): Online inference API for Transformer NLP models
 - [👁 CLIP-API-service](https://github.com/bentoml/CLIP-API-service): CLIP as a service for visual understanding and reasoning tasks
 
