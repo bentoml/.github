@@ -14,7 +14,6 @@ BentoML is an open-source platform for building, shipping, and scaling AI applic
 🔨 Building
 - [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified AI Application Framework
 - [🦾 OpenLLM](https://github.com/bentoml/OpenLLM): Operating Large Language Models (LLMs) in production
-- [🖼️ OneDiffusion](https://github.com/bentoml/OneDiffusion): Run any Stable Diffusion models and fine-tuned weights with ease
 
 🚢 Shipping & Scaling
 - [☁️ BentoCloud](https://www.bentoml.com/cloud): Streamline the Path to Production AI - fully managed infrastructures for deploying BentoML, OpenLLM, or any model, optimized for performance, scalability, and cost-efficiency.
