@@ -11,13 +11,13 @@
 
 BentoML is an open-source model serving library for building performant and scalable AI applications with Python. It comes with everything you need for serving optimization, model packaging, and production deployment.
 
-🔨 Building
+*🔨 Build Anywhere with Open-Source:*
 - [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified Model Serving Framework
 - [🦾 OpenLLM](https://github.com/bentoml/OpenLLM): Self-hosting Large Language Models Made Easy
 
-🚢 Shipping & Scaling
-- [☁️ BentoCloud](https://www.bentoml.com/cloud): An AI Inference Platform for enterprise AI teams to build fast and scalable AI applications with the leading model serving stack
 
+*🚢 Efficient scaling on your/our Cloud:*
+- [☁️ BentoCloud](https://www.bentoml.com/cloud): Inference Platform for enterprise AI teams to build fast, secure, and scalable AI applications.
 
 ## Get in touch 💬
 
