@@ -1,6 +1,7 @@
 # Welcome to BentoML 👋  [![Twitter Follow](https://img.shields.io/twitter/follow/bentomlai?style=social)](https://twitter.com/bentomlai) [![Slack](https://img.shields.io/badge/Slack-Join-4A154B?style=social)](https://l.bentoml.com/join-slack)
 
-[![BentoML](https://github.com/bentoml/.github/assets/489344/ab1d2af8-220d-4a0a-b509-b6d39c1a7a63)](http://bentoml.com)
+
+[![BentoML](https://github.com/bentoml/.github/assets/489344/bc3938ea-5a44-4cba-9c3f-b1bbb5b4d88b)](http://bentoml.com)
 
 
 <div align="center">
@@ -9,15 +10,11 @@
 
 ## What is BentoML? 👩‍🍳
 
-BentoML is an open-source model serving library for building performant and scalable AI applications with Python. It comes with everything you need for serving optimization, model packaging, and production deployment.
+BentoML is an open-source model serving library for building model inference APIs and multi-model serving systems with any open-source or custom AI models. It comes with everything you need for serving optimization, model packaging, and simplifies production deployment via [☁️ BentoCloud](https://www.bentoml.com/cloud).
 
-*🔨 Build Anywhere with Open-Source:*
 - [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified Model Serving Framework
 - [🦾 OpenLLM](https://github.com/bentoml/OpenLLM): Self-hosting Large Language Models Made Easy
-
-
-*🚢 Efficient scaling on your/our Cloud:*
-- [☁️ BentoCloud](https://www.bentoml.com/cloud): Inference Platform for enterprise AI teams to build fast, secure, and scalable AI applications.
+- [☁️ BentoCloud](https://www.bentoml.com/cloud): Inference Platform for fast-moving AI teams
 
 ## Get in touch 💬
 
