@@ -1,8 +1,7 @@
 # Welcome to BentoML 👋  [![Twitter Follow](https://img.shields.io/twitter/follow/bentomlai?style=social)](https://twitter.com/bentomlai) [![Slack](https://img.shields.io/badge/Slack-Join-4A154B?style=social)](https://l.bentoml.com/join-slack)
 
 
-[![BentoML](https://github.com/user-attachments/assets/10084b9b-324b-41c8-9275-06207e080c06)](http://bentoml.com)
-
+[![github banner](https://github.com/user-attachments/assets/a5719b64-615b-4f73-8342-b844e380bdd5)](http://bentoml.com)
 
 
 <div align="center">
