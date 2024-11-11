@@ -10,18 +10,21 @@
 
 ## What's cooking? 👩‍🍳
 
-### [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified Serving Framework for AI Systems
+### [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified Serving Framework for AI/ML Systems
 
 BentoML is a Python library for building online serving systems optimized for AI apps and model inference. It supports serving any model format/runtime and custom Python code, offering the key primitives for serving optimizations, task queues, batching, multi-model chains, distributed orchestration, and multi-GPU serving.
 
+### [🎨 Examples](https://docs.bentoml.com/en/latest/use-cases/index.html): Learn by doing!
+
+A collection of examples for BentoML, from deploying OpenAI-compatible LLM service, to building voice phone calling agents and RAG applications. Use these examples to learn how to use BentoML and build your own solutions.
 
 ### [🦾 OpenLLM](https://github.com/bentoml/OpenLLM): Self-hosting Large Language Models Made Easy
 
-Run any open-source LLMs (Llama 3.1, Qwen2, Phi3 and more) or custom models as OpenAI-compatible APIs with a single command. It features a built-in chat UI, state-of-the-art inference performance, and a simplified workflow for production-grade cloud deployment.
+Run any open-source LLMs (Llama, Mistral, Qwen, Phi and more) or custom fine-tuned models as OpenAI-compatible APIs with a single command. It features a built-in chat UI, state-of-the-art inference performance, and a simplified workflow for production-grade cloud deployment.
 
-### [☁️ BentoCloud](https://www.bentoml.com/cloud): Fast and scalable infrastructure for building and scaling with BentoML on the cloud
+### [☁️ BentoCloud](https://www.bentoml.com/): Unified Inference Platform for any model, on any cloud
 
-BentoCloud is the complete platform for enterprise AI teams to build and scale Compound AI systems. It brings cutting-edge AI infrastructure into your cloud environment, enabling AI teams to run inference with unparalleled efficiency, rapidly iterate on system design, and effortlessly scale in production with full observability.
+BentoCloud is the easist way to build and deploy with BentoML, in our cloud or yours. It brings fast and scalable inference infrastructure into any cloud, allowing AI teams to move 10x faster in building AI applications with ML/AI models, while reducing compute cost - by maxmizing compute utilization, fast GPU autoscaling, minimimal coldstarts and full observability. [Sign up today!](https://www.bentoml.com/).
 
 
 ## Get in touch 💬
