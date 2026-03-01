@@ -34,7 +34,7 @@ For end-to-end performance and portability across the AI execution stack—hardw
 
 ### [🔥 Mojo](https://www.modular.com/blog/the-path-to-mojo-1-0): A faster future for AI inference
 
-Mojo is on the path to a stable 1.0 release in 2026, delivering semantic versioning and a proven high-performance model for CPU and GPU programming. As Mojo matures, BentoML will leverage its native hardware acceleration to push model inference performance even further.
+Mojo is on the path to a stable 1.0 release in 2026, delivering semantic versioning and a proven high-performance model for CPU and GPU programming. As Mojo matures, BentoML will leverage its native hardware acceleration to push model inference performance even further. See the [Mojo Roadmap](https://docs.modular.com/mojo/roadmap/) for more information.
 
 
 ## Get in touch 💬
