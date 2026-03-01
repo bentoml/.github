@@ -28,6 +28,14 @@ Run any open-source LLMs (Llama, Mistral, Qwen, Phi and more) or custom fine-tun
 
 BentoCloud is the easist way to build and deploy with BentoML, in our cloud or yours. It brings fast and scalable inference infrastructure into any cloud, allowing AI teams to move 10x faster in building AI applications with ML/AI models, while reducing compute cost - by maxmizing compute utilization, fast GPU autoscaling, minimimal coldstarts and full observability. [Sign up today!](https://www.bentoml.com/).
 
+### [⚡ Modular MAX](https://github.com/modular/modular): Hardware-optimized inference across any accelerator
+
+For end-to-end performance and portability across the AI execution stack—hardware-level optimization included—see Modular MAX.
+
+### [🔥 Mojo](https://www.modular.com/blog/the-path-to-mojo-1-0): A faster future for AI inference
+
+Mojo is on the path to a stable 1.0 release in 2026, delivering semantic versioning and a proven high-performance model for CPU and GPU programming. As Mojo matures, BentoML will leverage its native hardware acceleration to push model inference performance even further.
+
 
 ## Get in touch 💬
 
