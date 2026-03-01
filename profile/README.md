@@ -10,16 +10,6 @@
 <a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.com">Docs</a> | <a href="https://bentoml.com/blog">Blog</a> | <a href="https://twitter.com/bentomlai">Twitter</a> | <a href="https://l.bentoml.com/join-slack">Community</a> | <a href="https://forum.modular.com/c/bento/31">Forum</a>
 </div>
 
-```mermaid
-flowchart TD
-    A["🚀 Your App / API"]
-    B["🍱 BentoML — Serving · Orchestration · Batching · Multi-model Chains"]
-    C["⚡ Modular MAX — Hardware-optimized Runtimes on Any Accelerator"]
-    D["🔥 Mojo — High-performance Kernel & Systems Programming"]
-    E["🖥️ Any Hardware · NVIDIA · AMD · CPU"]
-    A --> B --> C --> D --> E
-```
-
 ## What's cooking? 👩‍🍳
 
 ### [🍱 BentoML](https://github.com/bentoml/BentoML): The Unified Serving Framework for AI/ML Systems
@@ -46,6 +36,15 @@ For end-to-end performance and portability across the AI execution stack—hardw
 
 Mojo is on the path to a stable 1.0 release in 2026, delivering semantic versioning and a proven high-performance model for CPU and GPU programming. As Mojo matures, BentoML will leverage its native hardware acceleration to push model inference performance even further. See the [Mojo Roadmap](https://docs.modular.com/mojo/roadmap/) for more information.
 
+```mermaid
+flowchart TD
+    A["🚀 Your App / API"]
+    B["🍱 BentoML — Serving · Orchestration · Batching · Multi-model Chains"]
+    C["⚡ Modular MAX — Hardware-optimized Runtimes on Any Accelerator"]
+    D["🔥 Mojo — High-performance Kernel & Systems Programming"]
+    E["🖥️ Any Hardware · NVIDIA · AMD · CPU"]
+    A --> B --> C --> D --> E
+```
 
 ## Get in touch 💬
 
