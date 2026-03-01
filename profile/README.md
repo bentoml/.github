@@ -31,6 +31,8 @@ BentoCloud is the easist way to build and deploy with BentoML, in our cloud or y
 
 👉 [Join our Slack community!](https://l.bentoml.com/join-slack)
 
+💬 Join the [Modular Discord](https://discord.gg/modular) and [Modular Forum](https://forum.modular.com/)
+
 👀 Follow us on X [@bentomlai](https://twitter.com/bentomlai) and [LinkedIn](https://www.linkedin.com/company/bentoml/)
 
 📖 Read our [blog](https://www.bentoml.com/blog)
