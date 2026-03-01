@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.com">Docs</a> | <a href="https://bentoml.com/blog">Blog</a> | <a href="https://twitter.com/bentomlai">Twitter</a> | <a href="https://l.bentoml.com/join-slack">Community</a>
+<a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.com">Docs</a> | <a href="https://bentoml.com/blog">Blog</a> | <a href="https://twitter.com/bentomlai">Twitter</a> | <a href="https://l.bentoml.com/join-slack">Community</a> | <a href="https://forum.modular.com/c/bento/31">Forum</a>
 </div>
 
 ## What's cooking? 👩‍🍳
@@ -33,7 +33,7 @@ BentoCloud is the easist way to build and deploy with BentoML, in our cloud or y
 
 👉 [Join our Slack community!](https://l.bentoml.com/join-slack)
 
-💬 Join the [Modular Discord](https://discord.gg/modular) and [Modular Forum](https://forum.modular.com/c/bento/31)
+💬 Join the [Modular Discord](https://discord.gg/modular) and [Modular Forum](https://forum.modular.com/)
 
 👀 Follow us on X [@bentomlai](https://twitter.com/bentomlai) and [LinkedIn](https://www.linkedin.com/company/bentoml/)
 
