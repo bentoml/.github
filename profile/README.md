@@ -30,7 +30,7 @@ BentoCloud is the easist way to build and deploy with BentoML, in our cloud or y
 
 ### [⚡ Modular MAX](https://github.com/modular/modular): Hardware-optimized inference across any accelerator
 
-For end-to-end performance and portability across the AI execution stack—hardware-level optimization included—see [Modular MAX](https://www.modular.com/max).
+For end-to-end performance and portability across the AI execution stack, including hardware-level optimization, see [Modular MAX](https://www.modular.com/max).
 
 ### [🔥 Mojo](https://www.modular.com/blog/the-path-to-mojo-1-0): A faster future for AI inference
 
