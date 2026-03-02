@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.com">Docs</a> | <a href="https://bentoml.com/blog">Blog</a> | <a href="https://twitter.com/bentomlai">Twitter</a> | <a href="https://l.bentoml.com/join-slack">Community</a> | <a href="https://forum.modular.com/c/bento/31">Forum</a>
+<a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.com">Docs</a> | <a href="https://bentoml.com/blog">Blog</a> | <a href="https://twitter.com/bentomlai">Twitter</a> | <a href="https://discord.gg/modular">Community</a> | <a href="https://forum.modular.com/c/bento/31">Forum</a>
 </div>
 
 ## What's cooking? 👩‍🍳
@@ -30,11 +30,11 @@ BentoCloud is the easist way to build and deploy with BentoML, in our cloud or y
 
 ### [⚡ Modular MAX](https://github.com/modular/modular): Hardware-optimized inference across any accelerator
 
-For end-to-end performance and portability across the AI execution stack, including hardware-level optimization, see [Modular MAX](https://www.modular.com/max).
+For end-to-end performance and portability across the AI execution stack, see [Modular MAX](https://www.modular.com/max).
 
 ### [🔥 Mojo](https://www.modular.com/blog/the-path-to-mojo-1-0): A faster future for AI inference
 
-Mojo is on the path to a stable 1.0 release in 2026, delivering semantic versioning and a proven high-performance model for CPU and GPU programming. As Mojo matures, BentoML will leverage its native hardware acceleration to push model inference performance even further. See the [Mojo Roadmap](https://docs.modular.com/mojo/roadmap/) for more information.
+Mojo is on the path to a stable 1.0 release in 2026, delivering semantic versioning and a high-performance language for CPU and GPU programming. As Mojo matures, BentoML will leverage Mojo's compiled performance for CPU and GPU kernels to push model inference performance even further. See the [Mojo Roadmap](https://docs.modular.com/mojo/roadmap/) for more information.
 
 ```mermaid
 flowchart TD
@@ -47,8 +47,6 @@ flowchart TD
 ```
 
 ## Get in touch 💬
-
-👉 [Join our Slack community!](https://l.bentoml.com/join-slack)
 
 💬 Join the [Modular Discord](https://discord.gg/modular) and [Modular Forum](https://forum.modular.com/)
 
