@@ -1,4 +1,4 @@
-# Welcome to BentoML 👋  [![Twitter Follow](https://img.shields.io/twitter/follow/bentomlai?style=social)](https://twitter.com/bentomlai) [![Slack](https://img.shields.io/badge/Slack-Join-4A154B?style=social)](https://l.bentoml.com/join-slack)
+# Welcome to BentoML 👋  [![Twitter Follow](https://img.shields.io/twitter/follow/Modular?style=social)](https://x.com/Modular)
 
 > [!IMPORTANT]
 > BentoML is now part of [Modular](https://github.com/modular/modular). Together, we're building a unified stack for high-performance AI inference.
@@ -50,6 +50,6 @@ flowchart TD
 
 💬 Join the [Modular Discord](https://discord.gg/modular) and [Modular Forum](https://forum.modular.com/)
 
-👀 Follow us on X [@bentomlai](https://twitter.com/bentomlai) and [LinkedIn](https://www.linkedin.com/company/bentoml/)
+👀 Follow us on X [@Modular](https://x.com/Modular) and [LinkedIn](https://www.linkedin.com/company/modular-ai/)
 
-📖 Read our [blog](https://www.bentoml.com/blog)
+📖 Read our [blog](https://www.modular.com/blog)
