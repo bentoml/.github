@@ -1,11 +1,13 @@
 # Welcome to BentoML 👋  [![Twitter Follow](https://img.shields.io/twitter/follow/bentomlai?style=social)](https://twitter.com/bentomlai) [![Slack](https://img.shields.io/badge/Slack-Join-4A154B?style=social)](https://l.bentoml.com/join-slack)
 
+> [!IMPORTANT]
+> BentoML is now part of [Modular](https://github.com/modular/modular). Together, we're building a unified stack for high-performance AI inference.
 
 [![github banner](https://github.com/user-attachments/assets/a5719b64-615b-4f73-8342-b844e380bdd5)](http://bentoml.com)
 
 
 <div align="center">
-<a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.com">Docs</a> | <a href="https://bentoml.com/blog">Blog</a> | <a href="https://twitter.com/bentomlai">Twitter</a> | <a href="https://l.bentoml.com/join-slack">Community</a>
+<a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.com">Docs</a> | <a href="https://bentoml.com/blog">Blog</a> | <a href="https://twitter.com/bentomlai">Twitter</a> | <a href="https://discord.gg/modular">Community</a> | <a href="https://forum.modular.com/c/bento/31">Forum</a>
 </div>
 
 ## What's cooking? 👩‍🍳
@@ -26,10 +28,27 @@ Run any open-source LLMs (Llama, Mistral, Qwen, Phi and more) or custom fine-tun
 
 BentoCloud is the easist way to build and deploy with BentoML, in our cloud or yours. It brings fast and scalable inference infrastructure into any cloud, allowing AI teams to move 10x faster in building AI applications with ML/AI models, while reducing compute cost - by maxmizing compute utilization, fast GPU autoscaling, minimimal coldstarts and full observability. [Sign up today!](https://www.bentoml.com/).
 
+### [⚡ Modular MAX](https://github.com/modular/modular): Hardware-optimized inference across any accelerator
+
+For end-to-end performance and portability across the AI execution stack, see [Modular MAX](https://www.modular.com/max).
+
+### [🔥 Mojo](https://www.modular.com/blog/the-path-to-mojo-1-0): A faster future for AI inference
+
+Mojo is on the path to a stable 1.0 release in 2026, delivering semantic versioning and a high-performance language for CPU and GPU programming. As Mojo matures, BentoML will leverage Mojo's compiled performance for CPU and GPU kernels to push model inference performance even further. See the [Mojo Roadmap](https://docs.modular.com/mojo/roadmap/) for more information.
+
+```mermaid
+flowchart TD
+    A["🚀 Your App / API"]
+    B["🍱 BentoML — Serving · Orchestration · Batching · Multi-model Chains"]
+    C["⚡ Modular MAX — Hardware-optimized Runtimes on Any Accelerator"]
+    D["🔥 Mojo — High-performance Kernel & Systems Programming"]
+    E["🖥️ Any Hardware · NVIDIA · AMD · CPU"]
+    A --> B --> C --> D --> E
+```
 
 ## Get in touch 💬
 
-👉 [Join our Slack community!](https://l.bentoml.com/join-slack)
+💬 Join the [Modular Discord](https://discord.gg/modular) and [Modular Forum](https://forum.modular.com/)
 
 👀 Follow us on X [@bentomlai](https://twitter.com/bentomlai) and [LinkedIn](https://www.linkedin.com/company/bentoml/)
 
