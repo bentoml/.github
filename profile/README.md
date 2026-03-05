@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.com">Docs</a> | <a href="https://bentoml.com/blog">Blog</a> | <a href="https://twitter.com/bentomlai">Twitter</a> | <a href="https://discord.gg/modular">Community</a> | <a href="https://forum.modular.com/c/bento/31">Forum</a>
+<a href="http://bentoml.com">Website</a> | <a href="https://docs.bentoml.com">Docs</a> | <a href="https://bentoml.com/blog">Blog</a> | <a href="https://x.com/Modular">X</a> | <a href="https://discord.gg/modular">Community</a> | <a href="https://forum.modular.com/c/bento/31">Forum</a>
 </div>
 
 ## What's cooking? 👩‍🍳
