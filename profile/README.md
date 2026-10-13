@@ -24,10 +24,6 @@ A collection of examples for BentoML, from deploying OpenAI-compatible LLM servi
 
 Run any open-source LLMs (Llama, Mistral, Qwen, Phi and more) or custom fine-tuned models as OpenAI-compatible APIs with a single command. It features a built-in chat UI, state-of-the-art inference performance, and a simplified workflow for production-grade cloud deployment.
 
-### [☁️ BentoCloud](https://www.bentoml.com/): Unified Inference Platform for any model, on any cloud
-
-BentoCloud is the easist way to build and deploy with BentoML, in our cloud or yours. It brings fast and scalable inference infrastructure into any cloud, allowing AI teams to move 10x faster in building AI applications with ML/AI models, while reducing compute cost - by maxmizing compute utilization, fast GPU autoscaling, minimimal coldstarts and full observability. [Sign up today!](https://www.bentoml.com/).
-
 ### [⚡ Modular MAX](https://github.com/modular/modular): Hardware-optimized inference across any accelerator
 
 For end-to-end performance and portability across the AI execution stack, see [Modular MAX](https://www.modular.com/max).
